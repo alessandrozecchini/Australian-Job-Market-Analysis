@@ -49,7 +49,7 @@ Examples included:
 * `100,502 - 114,624`
 * `80k + Benefits`
 
-As a result, only **0.6%** of non-missing salary entries were initially analyzable.
+As a result, only 0.6% of non-missing salary entries were initially analyzable.
 
 ---
 
@@ -96,8 +96,8 @@ Example:
 
 The preprocessing phase substantially increased the amount of usable salary information.
 
-* Analyzable salary records increased from 55 to 1,719
-Salary coverage increased from 0.6% to 19,33%
+* Analyzable salary records increased from **55** to **1,719**
+Salary coverage increased from **0.6%** to **19,33%**
 
 This improvement enabled meaningful salary-based analysis.
 
