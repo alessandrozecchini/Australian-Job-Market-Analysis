@@ -143,7 +143,7 @@ Construction — **135,451 AUD**
 Consulting & Strategy — **135,172 AUD**
 * Banking & Financial Services — **121,493 AUD**
 
-![Average Salary by Category](images/salarycategory.png)
+<img src="images/categorysalary.png" width="65%">
 
 ---
 
@@ -159,7 +159,7 @@ Sydney recorded the highest number of job postings (9,412), followed by Melbourn
 
 Full-Time employment was the most common job type, with more than 20,000 offers, representing the 67,34% of the total offers.
 
-![Job Type Distribution](images/jobtype.png)
+<img src="images/jobtype.png" width="65%">
 
 ### Job Categories
 
