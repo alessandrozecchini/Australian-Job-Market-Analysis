@@ -97,7 +97,7 @@ Example:
 The preprocessing phase substantially increased the amount of usable salary information.
 
 * Analyzable salary records increased from **55** to **1,719**
-Salary coverage increased from **0.6%** to **19,33%**
+* Salary coverage increased from **0.6%** to **19,33%**
 
 This improvement enabled meaningful salary-based analysis.
 
