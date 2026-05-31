@@ -139,8 +139,8 @@ The highest average salaries were observed in:
 
 * CEO & General Management — **191,070 AUD**
 * Mining, Resources & Energy — **185,272 AUD**
-Construction — **135,451 AUD**
-Consulting & Strategy — **135,172 AUD**
+* Construction — **135,451 AUD**
+* Consulting & Strategy — **135,172 AUD**
 * Banking & Financial Services — **121,493 AUD**
 
 <img src="images/categorysalary.png" width="65%">
