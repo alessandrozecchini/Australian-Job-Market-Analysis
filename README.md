@@ -151,13 +151,15 @@ The highest average salaries were observed in:
 
 ### Geographic Distribution
 
-Sydney recorded the highest number of job postings (9,412), followed by Melbourne (7,361).
+Sydney recorded the highest number of job postings (9,412), followed by Melbourne (7,361) and Brisbane (2,951).
 
-<img src="images/cities.png" width="50%">
+Perth, Adelaide, and Canberra also emerged as opportunity-rich cities, with substantial demand for workers.
+
+<img src="images/citiesclean.png" width="50%">
 
 ### Job Type
 
-Full-Time employment was the most common job type, with more than 20,000 offers, representing the 67,34% of the total offers.
+Full-time positions were the most common type of employment, with more than 20,000 job postings, representing 67.34% of the total number of postings
 
 <img src="images/jobtype.png" width="65%">
 
