@@ -18,6 +18,17 @@ The project was developed using Microsoft Excel for data cleaning and Tableau Pu
 
 ---
 
+## Table of Contents
+
+- [Dataset](#Dataset)
+- [Data Preprocessing](#Data-Preprocessing)
+- [Salary Analysis](#Salary-Analysis)
+- [Additional Insights](#Additional-Insights)
+- [Limitations](#Limitations)
+- [Conclusions](#Conclusions)
+
+---
+
 ## Dataset
 
 The original dataset contains 30,000 job postings from SEEK Australia.
